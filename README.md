@@ -1,8 +1,8 @@
-## Dyslexia-Friendly Assistance
+# Dyslexia-Friendly Assistance
 
 An AI-powered, emotionally-aware learning platform designed to support individuals with dyslexia. It combines adaptive exercises, real-time feedback, emotion detection, and assistive tools to improve reading and cognitive skills.
 
-#Features
+## Features
 - Dyslexia screening using interactive assessments
 - AI chatbot for guidance and motivation
 - Adaptive learning exercises with gamification
@@ -10,7 +10,7 @@ An AI-powered, emotionally-aware learning platform designed to support individua
 - Emotion detection using NLP and sentiment analysis
 - Real-time progress tracking and reporting
 
- #Tech Stack
+ ## Tech Stack
 - Frontend: React.js
 - Backend: FastAPI / Node.js
 - ML: TensorFlow / PyTorch

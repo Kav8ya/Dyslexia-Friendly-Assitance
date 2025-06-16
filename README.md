@@ -1,4 +1,4 @@
- Dyslexia-Friendly Assistance
+## Dyslexia-Friendly Assistance
 
 An AI-powered, emotionally-aware learning platform designed to support individuals with dyslexia. It combines adaptive exercises, real-time feedback, emotion detection, and assistive tools to improve reading and cognitive skills.
 
